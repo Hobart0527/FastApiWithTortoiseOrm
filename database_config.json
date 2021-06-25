@@ -1,0 +1,16 @@
+{
+  "connections": {
+    "default": "mysql://root:990527@localhost:3306/test"
+  },
+  "apps": {
+    "my_app": {
+      "models": [
+        "database.models",
+        "database.user"
+      ],
+      "default_connection": "default"
+    }
+  },
+  "use_tz": "False",
+  "timezone": "PRC"
+}
