@@ -1,5 +1,5 @@
-## FastApiProject
-## 整合fastapi创建的一个目录
+## FastApiWithTortoiseORM
+## 整合fastapi创建的一个目录，使用FastApi和TortoiseORM进行开发
 ## 基于Python3.6+
 ## 运行项目
 # ① pip install -r request.txt
